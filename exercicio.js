@@ -10,6 +10,9 @@ filme.titulo = "Spider-man no way home"
 filme.produtora = "Marvel Studios"
 filme.ano = 2022
 
+filme.titulo = "Avengers Endgame"
+filme.ano = 2019
+
 const aluno = new Object()
 
 aluno.nome = "Ana"
